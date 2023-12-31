@@ -16,7 +16,8 @@ const config: Config = {
         "primary-blue": {
           DEFAULT: "#2B59FF",
           100: "#F5F8FF",
-          500:"#0d42ff"
+          500:"#0d42ff",
+          600:"#001a77",
         },
         "secondary-orange": "#f79761",
         "light-white": {
